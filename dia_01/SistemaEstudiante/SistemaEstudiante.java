@@ -1,3 +1,5 @@
+package dia_01.SistemaEstudiante;
+
 public class SistemaEstudiante {
     public static void main(String[] args) {
 
