@@ -11,7 +11,7 @@ public class SistemaEstudiante {
         char primeraLetraApellido = 'L';
 
         // Mostrar la información del estudiante
-        System.out.println("---- Información del Estudiante ----");
+        System.out.println("----- Información del Estudiante -----");
         System.out.println("Nombre: " + nombreEstudiante);
         System.out.println("Edad: " + edadEstudiante);
         System.out.println("Promedio de notas: " + promedioNotas);
@@ -20,7 +20,7 @@ public class SistemaEstudiante {
 
         //Operación para saber cuantos años faltan para que cumpla 25 años
         int anosFaltanCumplir25 = 25 - edadEstudiante;
-        System.out.println("\n---- Cuántos años le faltan para cumplir 25 ----");
+        System.out.println("\n----- Cuántos años le faltan para cumplir 25 -----");
         System.out.println("Faltan " + anosFaltanCumplir25 + " años");
 
         //Verificar el estudiante si aprobó
