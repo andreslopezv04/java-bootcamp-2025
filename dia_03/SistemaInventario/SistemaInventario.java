@@ -8,7 +8,7 @@ public class SistemaInventario {
         String [] productos = new String[tamañoArrays];
         double [] precios = new double[tamañoArrays];
         int[] cantidadEnStock = new int[tamañoArrays];
-        boolean [] disponiblidad = new boolean[tamañoArrays];
+        //boolean [] disponiblidad = new boolean[tamañoArrays];
 
         double [] totalInventarioProducto = new double[tamañoArrays];
 
